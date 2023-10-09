@@ -21,3 +21,15 @@ I would also have liked to have done the shrink to 5 decimal places using regula
 
 ##### Big Thanks
 Big thanks to [@gnip](https://github.com/gnip) and [@benbalter](https://github.com/benbalter) for the original graphics and super-simple GDAL instructions.
+
+## License
+When I created this repo there was no license on the source data. Now there is.
+
+Please remember that GNIP owns the source data and your use of this derived data should be based on their license at https://github.com/gnip/null-island
+
+Currently that is Creative Commons Non-Commercial. As far as I understand it this means that:
+
+- You can use the data for non-commercial purposes.
+- "Currently" doesn't mean anything - this license is irrevokable for all time. Enjoy the data no matter how GNIP/Twitter/X decide to change things.
+
+Note that I am not a lawyer, have never been a lawyer, never want to be a lawyer, and don't anticipate becoming a lawyer. This applies equally to real life as well as "on TV". Focus more on the license info over at [the source data repo](https://github.com/gnip/null-island) than my interpretation above.
